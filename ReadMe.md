@@ -1,10 +1,8 @@
 
 
 
-# <div style="text-align: center;">
- Laser Imaging Detection and Ranging <br> (LiDAR) Based Proximity Alert <br> for Bicycle Helmet 
+# Senior Design Project 
+---
 
-</div>
-
-
+## Laser Imaging Detection and Ranging <br> (LiDAR) Based Proximity Alert <br> for Bicycle Helmet 
 --- 
