@@ -43,7 +43,7 @@ A common way automobiles go about keeping distance from others is by using a par
 <br>
 So I got on that immediately, and started looking around, ending up on the TF-MINIs LiDAR sensor, as it works with arduinos.
 <br>
-Ah yes, Arduinos, the classic low-power low level microcontrollers that are super versatile. Which one should we use?
+> Ah yes, Arduinos, the classic low-power low level microcontrollers that are super versatile. Which one should we use?
  
  Originally, the plan was to use an Arduino Nano, as it's the smallest package you can get that amount of capability in, but unfortunately while trying to get the nano off of a breadboard, I completely biffed it and knocked a resistor off the bottom of it.... Whoops.
 
