@@ -13,5 +13,5 @@
 
 
 ### Part X: the final Design
-  [Rear Casing](https://sketchfab.com/3d-models/rear-casing-311979b84c3f495db25b09bcab5221ab)
+  [Rear Casing](https://sketchfab.com/3d-models/rear-casing-311979b84c3f495db25b09bcab5221ab) <br>
   [Front Casing](https://sketchfab.com/3d-models/front-panel-c0035471094749f2b10e251a77223106)
