@@ -28,7 +28,7 @@ It turned out to be "A bicycle helmet mounted device that improved cyclist safet
 So naturally I was immediately trying to brainstorm how I would go about this.
 
 A common way automobiles go about keeping distance from others is by using a parallel camera system (as depicted below), so maybe this would work, but you know what I've always wanted to work with? LiDAR, which is close enough to that
-![](https://www.volvocars.com/media/support-content/imgc54b72b7c1534010c0a8015205145903_1_--_--_VOICEpnghigh.png) Source: [Volvo UK](https://www.volvocars.com/uk/support/car/xc40/article/af42dd367f7db52ec0a80151108cf1cd/)
+![](https://github.com/VancouverSatelite/Senior-Design/blob/main/Pictures/volvo.jpg) Source: [Volvo UK](https://www.volvocars.com/uk/support/car/xc40/article/af42dd367f7db52ec0a80151108cf1cd/)
 
 
 
