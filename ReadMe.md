@@ -8,7 +8,7 @@
 ### Part 1: Planning
 
 An important part of any project is the planning stage, this project is no exception
-!(https://github.com/VancouverSatelite/Senior-Design/blob/main/Pictures/schedule.png)
+![](https://github.com/VancouverSatelite/Senior-Design/blob/main/Pictures/schedule.png)
 
 
 
