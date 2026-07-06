@@ -7,6 +7,7 @@
 
 ### Part 1: Planning
 
+An important part of any project is the planning stage, this project is no exception
 
 
 
