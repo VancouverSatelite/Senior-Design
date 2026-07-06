@@ -7,6 +7,8 @@
 
 ### Part 1: Planning
 
+---
+
 An important part of any project is the planning stage, this project is no exception. <br> Below is the table in the report to show when each part of the project was completed.
 ![](https://github.com/VancouverSatelite/Senior-Design/blob/main/Pictures/schedule.png)
 <br>
@@ -18,6 +20,8 @@ This project was done as a group, but I did the 3D modeling, the Wiring Diagram,
 ---
 
 ### Part 2: Initial Design
+
+---
 
 Keeping to schedule is a key part of project productivity, however just scheduling isn't going ot do all of the work.
 
@@ -34,6 +38,7 @@ A common way automobiles go about keeping distance from others is by using a par
 
 ---
 ![](https://github.com/VancouverSatelite/Senior-Design/blob/main/Pictures/volvo.jpg) Source: [Volvo UK](https://www.volvocars.com/uk/support/car/xc40/article/af42dd367f7db52ec0a80151108cf1cd/)
+
 ---
 <br>
 So I got on that immediately, and started looking around, ending up on the TF-MINIs LiDAR sensor, as it works with arduinos.
@@ -48,7 +53,12 @@ Ah yes, Arduinos, the classic low-power low level microcontrollers that are supe
 
 ### Part 3: Testing 
 
+---
+
 ### Part 4: The final Design
+
+---
+
 ![The Wiring diagram of the project, which I threw together in KICAD](https://github.com/VancouverSatelite/Senior-Design/blob/main/Pictures/FinalDesign.png)
   [Rear Casing](https://sketchfab.com/3d-models/rear-casing-311979b84c3f495db25b09bcab5221ab)  <br>
   ![A spinning 3D model which is the design of the rear case portion of the device.](https://github.com/VancouverSatelite/Senior-Design/blob/main/Pictures/trim-rear.gif)<br>
@@ -60,6 +70,8 @@ Ah yes, Arduinos, the classic low-power low level microcontrollers that are supe
   ---
 
 ### Part 5: Code
+
+---
 
   If you are interested in the code used, it was a permutation of this:
   
