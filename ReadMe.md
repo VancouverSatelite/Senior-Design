@@ -1,8 +1,7 @@
 
 
 
-# Senior Design Project 
+# Senior Design Project
 ---
-
-## Laser Imaging Detection and Ranging <br> (LiDAR) Based Proximity Alert <br> for Bicycle Helmet 
+## **Laser Imaging Detection and Ranging <br> (LiDAR) Based Proximity Alert <br> for Bicycle Helmet**
 --- 
