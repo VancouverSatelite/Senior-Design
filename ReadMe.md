@@ -53,6 +53,12 @@ So I got on that immediately, and started looking around, ending up on the TF-MI
 
 ### Part 3: Testing 
 
+For testing the Device, I met up with the group and one of them rode a bicycle, and the other drove his car right behind the other guy at varying distances while I ran along side taking videos, pictures, and making observations.
+
+> Testing has showed that the range should be increased from 3 meters to a larger distance to start, as well as mounting it differently to the helmet to allow for a more accurate and stable reading.
+
+These changes were implemented in changing the maximum registering distance to 6m, as well adding loops for velcro to attach it to the helmet rather than securing it with no anchor points.
+
 ---
 
 ### Part 4: The final Design
